@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+
+  <style>
+    table tr,
+    td {
+      border: 10px solid black;
+      border-collapse: collapse;
+
+    }
+  </style>
+</head>
+
+<body>
+  <table>
+    <th>
+      <tr>
+    <div style="background-color: white;" <div style="background-color: red !important;" 
+    <h4 style="text-align:center;margin-bottom: 10px;margin-top: 20px;font-size: large;padding-top: 50px;">Yes I wanted to subscribe to
+      Mag-O-Zine
+    </td>
+    </h4>
+    </th> </table>
+  
+
+
+
+</body>
+</div>
+</div>
+<form>
+
+  <div
+    style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;"
+    black;">
+    <table style="width: 100%;">
+      <tr>
+        <td>
+          <div style="font-family:Verdana, Geneva, Tahoma, sans-serif;">
+            <label for="Fname">firstName</label><span>___________________________
+
+              <label for="LastName">LastName</label><span>__________________________
+                <label for="Address">Address</label><span>__________________________
+
+                </span>
+
+              </span>
+            </span>
+          </div>
+
+          <div>
+
+            <label for="City">City</label>
+            <span>____________________
+              <label for="State">State</label>
+              <span>____________
+
+                <label for="Zip">Zip</label>
+                <span>_______________
+
+                </span>
+              </span>
+            </span>
+          </div>
+
+          <div>
+            <h5 style="text-align:left">Subscribe for</h5><span>
+              <input type="checkbox" id="1year" name="Value" checked>
+              <label for="1year">1year($19.95)</label>
+              <span>
+                <input type="checkbox" id="2years" name="Value">
+                <label for="2years">2years($35.00)</label>
+              </span>
+
+            </span>
+          </div>
+          <div>
+            <p>Send me more information about:</p>
+
+            <input type="checkbox" id="Details" checked>
+            <label for="Details">Computer-Zine</label><br>
+
+            <input type="checkbox" id="Details">
+            <label for="Details">Fishing-Zine</label><br>
+
+            <input type="checkbox" id="Details" checked>
+            <label for="Details">Ct-O-Zine</label><br>
+
+          </div>
+        </td>
+
+      </tr>
+    </table>
+
+
+
+  </div>
+
+</form>
+
+</html>
+

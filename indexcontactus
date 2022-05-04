@@ -1,0 +1,34 @@
+DAY -1
+CONTACT US FORM
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CONTACT US</title>
+</head>
+<body>
+    <thead>
+
+    </thead>
+    <tbody>
+<form>
+    <label for="FirstName">FirstName</label><br>
+    <input type="text" id="FirstName" name="First" required="required"><br>
+    <label for ="LastName">LastName</label><br>
+    <input type="text" id="LastName" name="importantName"><br>
+    <label for="phonenumber">PhoneNumber</label><br>
+    <input type="text" id="PhoneNumber" values="numbers"><br>
+    <label for="Acknowledge">I agree that to receive cal from our reprsentatives</label>
+    <input type="checkbox" name="important" value="value" checked="yes"><br>
+   <label for="thankyou">Submit</label><br>
+   <input type="button" name="button" value="ok"><br>
+</form>
+    </tbody>
+    
+</body>
+</html>
+
+
+

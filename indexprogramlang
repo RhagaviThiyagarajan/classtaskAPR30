@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML ELEMENTS</title>
+    <script src="script.js">Scriptjs</script>
+</head>
+<body>
+    <thead>
+
+    </thead>
+    <tbody>
+        <h1>Programming Languages</h1>
+<form>
+<ul>
+    <li>Programming language</li>
+    <li>Database</li>
+</ul>
+<h3>JavaScript</h3>
+<ol>
+    <li>a.Angular</li>
+    <li>b.React</li>
+    <li>c.Vue.js</li>
+        
+</ol>
+<h3>Python</h3>
+<ol>
+    <li>a.Django Framework</li>
+       <li>b.Flask Framework</li>
+</ol>
+<h3>Java</h3>
+<ol>
+    <li>
+        a.Spring</li>
+<li>b.Maven</li>
+<li>c.Hibernate</li>
+    </li>
+</ol>
+<h3>Database</h3>
+<ol>
+    <li>MySQL</li>
+     <li>MongoDB</li>
+     <li>Cansandra</li>
+</ol>
+</form>
+    </tbody>
+    
+</body>
+</html>
+
